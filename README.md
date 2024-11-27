@@ -116,13 +116,8 @@ Ensure you have the following installed:
 - **Sidebar not fitting the screen**: Ensure the `h-screen` class is applied to the `Sidebar` component.
 - **Light/Dark mode not toggling**: Confirm that the `theme` state is correctly managed in `App.js`.
 
-## License
-This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
-
 ## Acknowledgments
 - **React** and **Tailwind CSS** for their powerful capabilities.
 - **Heroicons** for providing high-quality icons.
 
-## Contact
-For questions or feedback, reach out to [your email@example.com].
 
